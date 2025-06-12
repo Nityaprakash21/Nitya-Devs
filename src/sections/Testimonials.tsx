@@ -57,6 +57,24 @@ const testimonials = [
     text: "Nitya excelled as a Field Investigator in an ICSSR-funded Odisha Millet Mission`s millet marketing study, delivering key insights on urban consumer behavior showcasing strong research and fieldwork skills.",
     avatar: memojiAvatar3,
   },
+    {
+    name: "Tanushree Parida",
+    position: "Senior Manager CO @ RSP SAIL",
+    text: "Nitya’s creative direction and design clarity brought unmatched polish to our Chairman Trophy deck — delivering both impact and elegance.",
+    avatar: memojiAvatar3,
+  },
+    {
+    name: "Jyotirmayee Rautia",
+    position: "Manager NPM @ RSP SAIL",
+    text: "Nitya’s visuals spoke louder than words — his contribution turned our ideas into a high-impact visual story worthy of top-tier recognition for Chairman Trophy.",
+    avatar: memojiAvatar3,
+  },
+    {
+    name: "Rita Murmu",
+    position: "Senior Manager HSM-2 @ RSP SAIL",
+    text: "Nitya ability to translate complex data into a compelling narrative was instrumental in elevating our Chairman Trophy presentation to a strategic showcase.",
+    avatar: memojiAvatar3,
+  },
 ];
 
 export const TestimonialsSection = () => {
