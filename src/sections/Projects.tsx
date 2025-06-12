@@ -58,6 +58,18 @@ const portfolioProjects = [
     link: "https://ppms-datp.onrender.com/",
     image: aiStartupLandingPage2,
   },
+    {
+    company: "Rourkela Steel Plant, SAIL",
+    year: "2025",
+    title: "RSP Production Dashboard",
+    results: [
+      { title: "Streamlined real-time production monitoring by 50%" },
+      { title: "Optimized operational visibility by 70%" },
+      { title: "Improved executive reporting efficiency by 40%" },
+    ],
+    link: "https://ppms-datp.onrender.com/",
+    image: rsp,
+  },
 ];
 
 export const ProjectsSection = () => {
