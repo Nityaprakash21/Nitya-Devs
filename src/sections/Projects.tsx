@@ -68,7 +68,7 @@ const portfolioProjects = [
       { title: "Optimized operational visibility by 70%" },
       { title: "Improved executive reporting efficiency by 40%" },
     ],
-    link: "https://ppms-datp.onrender.com/",
+    link: "https://drive.google.com/file/d/1FGMNXRJedxMTGhS0Stu1aXcEXigIB063/view?usp=drive_link",
     image: rsp,
   },
 ];
