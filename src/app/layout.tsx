@@ -18,10 +18,6 @@ const calistoga = Calistoga({
 export const metadata: Metadata = {
   title: "Nitya Devs",
   description: "Created with the help of Frontend Tribe",
-  icons: {
-    icon: "/favicon.png",
-    apple: "/favicon.png",
-  },
 };
 
 export default function RootLayout({
