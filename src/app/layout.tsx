@@ -20,7 +20,6 @@ export const metadata: Metadata = {
   description: "Created with the help of Frontend Tribe",
   icons: {
     icon: "/favicon.png",
-    shortcut: "/favicon.ico",
     apple: "/favicon.png",
   },
 };
